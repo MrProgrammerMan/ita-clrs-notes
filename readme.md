@@ -6,3 +6,6 @@ The notes in this repo is organized somewhat as a [Zettelkasten](https://en.wiki
 
 ## Purpose
 The reason I want to make this repo is that I want a solid grasp on the complex and large topics of algorithms. I believe this is very important in order to properly understand higher level patterns of software engineering and when to use which. More generally, I wish to develop a personal knowledge base that I'm intimately familiar with for this topic. I wish to become better at organizing my work and learning. I've always been terrible at writing notes, and so I want to put some work into organizing my notetaking. in working with this topic(and the aforementioned book) in this way, I will also develop a reference that I can use in the future.
+
+## Repo structure
+The repo is divided into [00-inbox]([[20250719193750]]), [01-literature]([[20250719194032]]), [02-permanent]([[20250719194458]]) and [03-structure]([[20250719194644]]).
